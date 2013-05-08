@@ -1,2 +1,0 @@
-Tumblr-Blogosphere-Analyzer
-===========================
